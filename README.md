@@ -1,5 +1,7 @@
 # mkLink
 
+Make symbolic links, hard links, and directory junctions from the context menu.
+
 ### [Download](http://jamrizzi.com/market/mklink)
 
 mkLink creates multiple types of symbolic links.  Specifically, it simplifies the use of creating symbolic links by providing a GUI interface and access from the context menu.  Normally advanced symbolic links, such as Hard Links and Directory Junctions can only be created through the command prompt.
@@ -39,11 +41,11 @@ You can learn more information about mkLinks at https://technet.microsoft.com/en
 
 ## Credits
 
-Developed by [JamRizzi Technologies]
+Developed by [JamRizzi Technologies](http://jamrizzi.com)
 
 ## License
 
-Copyright © JamRizzi Technologies 2016
+Copyright © [JamRizzi Technologies](http://jamrizzi.com) 2016
 
 ### GNU General Public License, Version 3
 

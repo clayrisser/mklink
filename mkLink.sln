@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mkLink", "mkLink\mkLink.csproj", "{A24A6DC0-BD01-4C76-8C5B-C0E6B10E4820}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mkLink", "Application\mkLink.csproj", "{A24A6DC0-BD01-4C76-8C5B-C0E6B10E4820}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

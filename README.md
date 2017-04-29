@@ -4,6 +4,8 @@ Make symbolic links, hard links, and directory junctions from the context menu
 
 mkLink creates multiple types of symbolic links. Specifically, it simplifies the use of creating symbolic links by providing a GUI interface and access from the context menu. Normally advanced symbolic links, such as Hard Links and Directory Junctions can only be created through the command prompt.
 
+Please &#9733; this repo if you found it useful &#9733; &#9733; &#9733;
+
 
 ## Features
 <!------------------------------------------------------->

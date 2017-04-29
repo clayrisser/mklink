@@ -27,7 +27,7 @@ The following symbolic links can be created with mkLink.
 ## Support
 <!------------------------------------------------------->
 
-Submit an [issue](https://github.com/jamrizzi/readme/issues/new)
+Submit an [issue](https://github.com/jamrizzi/mklink/issues/new)
 
 
 ## Screenshots
@@ -57,7 +57,7 @@ A ridiculous amount of coffee was consumed in the process of building this proje
 ## License
 <!------------------------------------------------------->
 
-[MIT License](https://github.com/jamrizzi/readme/blob/master/LICENSE)
+[MIT License](https://github.com/jamrizzi/mklink/blob/master/LICENSE)
 
 [Jam Risser](https://jamrizzi.com) &copy; 2017
 
